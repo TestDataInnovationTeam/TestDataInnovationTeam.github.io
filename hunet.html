@@ -1,7 +1,7 @@
 ---
 layout: default
 title: hunet
-description: 
+description:
 permalink: /hunet/
 ---
 <section class="hunets" itemscope itemtype="http://schema.org/Blog">
@@ -13,7 +13,7 @@ permalink: /hunet/
     <span>hunet</span>
   </header>
   <div class="section-padding hunets__container">
-    {% for post in site.posts %}
+    {% for post in categories.hunet %}
       <article class="card" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
         <a class="card__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
           <div class="card__img">
