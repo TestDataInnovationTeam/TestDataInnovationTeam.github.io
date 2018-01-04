@@ -1,5 +1,5 @@
 # Site settings
-email:
+email: beomjun615@naver.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
@@ -14,9 +14,9 @@ default_img: https://picsum.photos/2000/1200?image=0
 
 # Profile settings
 name: Hunet
-profile_img:
+profile_img: ./_image/hunetblogbanner.png
 profile: Hunet Databased Innovation Team
-social:
+social: social test
 github: "https://github.com/Hunetdba/hunetdba.github.io"
 
 # Build settings
