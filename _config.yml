@@ -14,10 +14,8 @@ default_img: https://picsum.photos/2000/1200?image=0
 
 # Profile settings
 name: Hunet
-profile_img: "/image/hunetblogbanner.png"
-profile: "Hunet Databased Innovation Team
-        기술 블로그 테스트"
-
+profile_img: https://imagizer.imageshack.com/v2/2000x1200q90/924/IzRXQc.png
+profile: "Hunet Databased Innovation Team 기술 블로그 테스트"
 social: social test
 github: "https://github.com/Hunetdba/hunetdba.github.io"
 
