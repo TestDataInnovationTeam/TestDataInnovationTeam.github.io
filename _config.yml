@@ -15,8 +15,8 @@ default_img: https://picsum.photos/2000/1200?image=0
 # Profile settings
 name: Hunet
 profile_img: https://picsum.photos/2000/1200?image=0
-profile: "Hunet Databased Innovation Team 기술 블로그 테스트"
-social: social test
+profile: Hunet Databased Innovation Team 기술 블로그 테스트
+social:
 github: "https://github.com/Hunetdba/hunetdba.github.io"
 
 # Build settings
