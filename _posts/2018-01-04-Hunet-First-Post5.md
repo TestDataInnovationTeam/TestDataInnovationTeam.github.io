@@ -5,6 +5,7 @@ date: 2018-01-04
 categories:
   - Hunet
 description:
+author: 박범준
 image: https://picsum.photos/2000/1200?image=0
 image-sm: https://picsum.photos/500/300?image=0
 ---
