@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hunet First Post!!"
+title: "Hunet First Post1!!"
 date: 2018-01-04
 categories:
   - Hunet
