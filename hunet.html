@@ -4,7 +4,7 @@ title: hunet
 description:
 permalink: /category/hunet/
 ---
-<section class="hunets" itemscope itemtype="http://schema.org/Blog">
+<section class="hunet" itemscope itemtype="http://schema.org/Blog">
   <a class="nav nav--black" href="{{ site.baseurl }}/">
     <i class="fa fa-lg fa-arrow-left"></i>
     <span>Back to Posts</span>
@@ -13,7 +13,7 @@ permalink: /category/hunet/
     <span>Hunet</span>
   </header>
   <div class="section-padding hunets__container">
-    {% for post in site.categories.Hunet %}
+    {% for post in site.posts.categories.Hunet %}
       <article class="card" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
         <a class="card__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
           <div class="card__img">
