@@ -13,7 +13,7 @@ permalink: /category/hunet/
     <span>hunet</span>
   </header>
   <div class="section-padding hunets__container">
-    {% for site in site.categories.Hunet %}
+    {% for post in site.categories.Hunet %}
       <article class="card" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
         <a class="card__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
           <div class="card__img">
