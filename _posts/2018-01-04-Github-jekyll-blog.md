@@ -1,21 +1,13 @@
 ---
 
-layout: post
-
-title: "Github page & jekyll로 기술블로그 만들기"
-
-date: 2018-01-04
-
-categories: - etc
-
-description:
-
-author: "박범준"
-
-image: https://picsum.photos/2000/1200/?random
-
+layout: post  
+title: "Github page & jekyll로 기술블로그 만들기"  
+date: 2018-01-04  
+categories: - etc  
+description:  
+author: "박범준"  
+image: https://picsum.photos/2000/1200/?random  
 image-sm: https://picsum.photos/500/300/?random
------------------------------------------------
 
 ---
 
