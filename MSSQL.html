@@ -33,6 +33,7 @@ permalink: /category/mssql/
                 in {{ post.categories | join: ', ' }}
               {% endif %}
             </p>
+            <p class="preview__excerpt" itemprop="description">{{ post.content | strip_html | truncatewords: 30 }}</p>
             <span class="card__more">Read Post</span>
           </div>
         </a>
