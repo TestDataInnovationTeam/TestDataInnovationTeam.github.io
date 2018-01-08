@@ -13,8 +13,12 @@
         <a class="card__link" href="{{ site.baseurl }}/{{ cat_dir }}/{{ category | downcase | slugify }}/">
           {% for post in site.categories[category] limit: 1 %}
             <div class="card__img">
+
+
               {% if post.image-sm %}
                 <figure class="absolute-bg" style="background-image: url('{{ post.image-sm }}');"></figure>
+              {% else if post.site.category = mssql %}
+                    <figure class="absolute-bg" style="background-image:/image/mssql;"></figure>
               {% else %}
                 <figure class="absolute-bg" style="background-image: url('{{ post.image }}');"></figure>
               {% endif %}
