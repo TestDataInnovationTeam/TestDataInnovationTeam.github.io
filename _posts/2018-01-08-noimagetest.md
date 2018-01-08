@@ -1,20 +1,11 @@
 ---
 
-layout: post
-
-title: "No Image Test"
-
-date: 2018-01-08
-
-categories: - etc
-
-description:
-
+layout: post  
+title: "No Image Test"  
+date: 2018-01-08  
+categories: - etc  
+description:  
 author: "박범준"
-
-image: https://picsum.photos/2000/1200/?random
-
-image-sm: https://picsum.photos/500/300/?random
 
 ---
 
